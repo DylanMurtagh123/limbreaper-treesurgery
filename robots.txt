@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://limbreaper-treesurgery.co.uk/sitemap.xml
